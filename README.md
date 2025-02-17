@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Philippe Moreira de Jesus
+Matricula: 692440
 
 ## Tela de inspeção com navegador
-
+![Imagem](avatar.jpg)
 
 ## Tela de projeto no Replit
+![Imagem1](atividade1.jpg)
 
